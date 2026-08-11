@@ -57,7 +57,7 @@ Additional target machines can be added to the same virtual network in future pr
 | ------------------ | ------------------  |
 | 🖥️ Host OS         | Windows 11          |
 | 🧠 Host RAM        | 12 GB               |
-| ⚡ Processor       | Intel Core i5vv     |
+| ⚡ Processor       | Intel Core i5     |
 | 🧰 Hypervisor      | VirtualBox 7.2  |
 | 🐉 Security OS     | Kali Linux 2026.2  |
 | 🧠 Kali RAM        | 4048 MB            |
